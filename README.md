@@ -2,10 +2,9 @@
 <hr><img align="right" width="150" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 <div style="display: inline_block"><br>
   
-* 🖥️ Em busca da primeira vaga em tecnologia!
-* 🧠 Estudando Java com SpringBoot, Banco de dados e Python
+* 🖥️ Em busca de aumentar o conhecimento.
+* 🧠 Estudando Java com SpringBoot e Banco de dados.
 * 📚 Realizando graduação de Ciência da Computação - Uniamérica
-* (❁´◡`❁)
 
 
 </div>
