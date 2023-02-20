@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SpringBoot**
 
-- 🖥️ Ask me about **Java, Python, Basic Web and SQL**
+- 🖥️ Ask me about **Java, SpringBoot, HTML, CSS, MongoDB and PostgreSQL**
 
 - 📫 How to reach me **marinkyouko@gmail.com**
 
