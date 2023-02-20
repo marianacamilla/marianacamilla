@@ -3,7 +3,7 @@
 
 <hr><img align="right" width="150" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning **DevOps and Javascript**
 
 - 🖥️ Ask me about **Java, SpringBoot, HTML, CSS, MongoDB and PostgreSQL**
 
