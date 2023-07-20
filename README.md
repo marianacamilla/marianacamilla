@@ -1,13 +1,13 @@
 ## Hi! ♡ I'm Mariana Camilla
-<h3 align="center">A data scientist/ML engineer from Brazil</h3>
+<h3 align="center"> Data Science and Machine Learning Enthusiast from Brazil 🤖♡</h3>
 
 <hr><img align="right" width="150" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 
-- 🌱 I’m currently learning **Data science and Machine Learning**
+- 🌱 I’m currently learning **Data Science** and **Machine Learning**
 
-- 📫 How to reach me **marinworkspace@gmail.com**
-
-- 📚 Graduation Science Computer in **Centro Universitário Una**
+- 📫 How to reach me: marinworkspace@gmail.com
+ 
+- 📚 Computer Science Student at Centro Universitário **Una** 🎓 <sup>(Graduation in Progress)</sup>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
