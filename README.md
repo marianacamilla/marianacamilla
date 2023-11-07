@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: marinworkspace@gmail.com
  
-- 📚 Computer Science Student at Centro Universitário **Una** 🎓 <sup>(Graduation in Progress)</sup>
+- 📚 Computer Science Student at **Cruzeiro do Sul** 🎓 <sup>(Graduation in Progress)</sup>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
