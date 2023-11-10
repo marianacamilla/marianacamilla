@@ -1,9 +1,9 @@
 ## Hi! ♡ I'm Mariana Camilla
-<h3 align="center"> Data Science and Machine Learning Enthusiast from Brazil 🤖♡</h3>
+<h3 align="center"> Blue team student from Brazil 🤖♡</h3>
 
 <hr><img align="right" width="150" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 
-- 🌱 I’m currently learning **Data Science** and **Machine Learning**
+- 🌱 I’m currently learning **SOC** 
 
 - 📫 How to reach me: marinworkspace@gmail.com
  
