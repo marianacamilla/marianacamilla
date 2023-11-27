@@ -3,11 +3,11 @@
 
 <hr><img align="right" width="150" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 
-- 🌱 I’m currently learning **SOC** 
+- 🌱 I’m currently learning **Blue Team and APPSEC** 
 
 - 📫 How to reach me: marinworkspace@gmail.com
  
-- 📚 Computer Science Student at **Cruzeiro do Sul** 🎓 <sup>(Graduation in Progress)</sup>
+- 📚 Computer Science Student at **Cruzeiro do Sul** 🎓 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
