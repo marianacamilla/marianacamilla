@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Blue Team and APPSEC** 
 
-- 📫 How to reach me: marinworkspace@gmail.com
+- 📫 How to reach me: marianacamilla24@gmail.com
  
 - 📚 Computer Science Student at **Cruzeiro do Sul** 🎓 
 
