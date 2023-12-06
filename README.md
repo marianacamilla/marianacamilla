@@ -1,9 +1,9 @@
 ## Hi! ♡ I'm Mariana Camilla
-<h3 align="center"> Blue team student from Brazil 🤖♡</h3>
+<h3 align="center"> Data science student from Brazil 🤖♡</h3>
 
 <hr><img align="right" width="150" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 
-- 🌱 I’m currently learning **Blue Team and APPSEC** 
+- 🌱 I’m currently learning **Data Science and Machine Learning** 
 
 - 📫 How to reach me: marianacamilla24@gmail.com
  
